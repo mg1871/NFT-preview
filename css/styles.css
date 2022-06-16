@@ -1,0 +1,108 @@
+body {
+  background-color: #0d192b;
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+  overflow: scroll;
+  margin: 0;
+}
+
+h3 {
+  margin: 15px auto;
+  text-align: left;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.main {
+  margin: auto;
+}
+
+.container-3429 {
+  background-color: #14253d;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 10px;
+  margin: 100px auto;
+  width: 20%;
+}
+
+.img-container-3429 {
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  margin: auto;
+}
+
+.img-nft-3429 {
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+  object-fit: fill;
+}
+
+.desc-container-3429 {
+  margin: auto;
+  text-align: left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.val-container-3429 {
+  margin: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.author-container-3429 {
+  margin: auto;
+  padding: 0 15px 15px 15px;
+  text-align: left;
+}
+
+.nft-3429-val {
+  display: inline;
+  float: left;
+}
+
+.nft-3429-eta {
+  display: inline;
+  float: right;
+}
+
+.nft-hr {
+  margin: auto;
+  padding: 10px 15px;
+}
+
+.avt1 {
+  border: 2px solid white;
+  background-color: #ffffff;
+  border-radius: 50px;
+  object-fit: fill;
+  height: 20px;
+  width: 20px;
+  vertical-align: middle;
+}
+
+.tclr1 {
+  color: #ffffff;
+  color: hsl(0, 0%, 100%);
+}
+
+.tclr2 {
+  color: #8bacda;
+  color: hsl(215, 51%, 70%);
+}
+
+.tclr3 {
+  color: #00FFF8;
+}
+
+.tfmt1 {
+  vertical-align: middle;
+  display: inline-block;
+}
